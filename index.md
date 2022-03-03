@@ -1,14 +1,14 @@
 <table border="0">
   <tr>
-    <td width="60%">
+    <td width="75%">
       <h1>金鑫宇</h1>
       <p><b>本科在读</b></p>
       <p><b>杭州师范大学大学/信息科学与技术学院</b></p>
       <p><b>邮箱：arikazz@163.com</b></p>
       <p><b>邮箱：260950676@qq.com</b></p>
-      <p><b>地址：浙江省杭州市余杭区余杭塘路路2318号杭州师范大学</b></p>
+      <p><b>地址：浙江省杭州市余杭区杭州师范大学</b></p>
     </td>
-    <td width="40%">
+    <td width="25%">
       <img src="/pic.jpg" width="100%">
     </td>
   </tr>
@@ -41,10 +41,11 @@
 #### 学校（2019.09~至今）
 - **碧魄戒**  
 - 中国大学生计算机设计大赛省赛三等奖
-<a href="/index-en.html">Bilibili视频</a>
+- <a href="https://www.bilibili.com/video/bv1vT4y1S7Qx">Bilibili视频</a>
+
 #### 杭州和乐科技（2022.01~至今）
 - **红色拯救**  
 - 新手版Demo
-<a href="/index-en.html">Bilibili视频</a>
+- <a href="/index-en.html">Bilibili视频</a>
 - 进阶版Demo
 设计开发ing~
