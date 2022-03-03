@@ -41,13 +41,10 @@
 #### 学校（2019.09~至今）
 - **碧魄戒**  
 - 中国大学生计算机设计大赛省赛三等奖
-<video src="/video_TurquoiseRing.mp4" width="100%">
-- **橄榄小子**  
-- 十分简单的学校课程作品
-<video src="/video_RugbyBoy.mp4" width="100%">
+<video src="/video_TurquoiseRing.mp4">
 #### 杭州和乐科技（2022.01~至今）
 - **红色拯救**  
 - 新手版Demo
-<video src="/video_RedRescue_1.mp4" width="100%">
+<video src="/video_RedRescue_1.mp4">
 - 进阶版Demo
 设计开发ing~
