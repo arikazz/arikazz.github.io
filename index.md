@@ -34,7 +34,7 @@
 #### 杭州和乐科技（2022.01~至今）
 - **红色拯救**  
 - 新手版Demo
-- <a href="/index-en.html">Bilibili视频</a>
+- <a href="https://www.bilibili.com/video/BV1vT4y1S7Qx">Bilibili视频</a>
 - 进阶版Demo
 - 设计开发ing~
 
