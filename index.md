@@ -31,12 +31,10 @@
 - 中国大学生计算机设计大赛省赛三等奖
 - <a href="https://www.bilibili.com/video/bv1vT4y1S7Qx">Bilibili视频</a>
 
-#### 杭州和乐科技（2022.01~至今）
+#### 杭州和乐科技（2022.01~2022.03）
 - **红色拯救**  
 - 新手版Demo
 - <a href="https://www.bilibili.com/video/BV1qa411t7go">Bilibili视频</a>
-- 进阶版Demo
-- 设计开发ing~
 
 ### 荣誉相关
 - **荣誉称号** 
